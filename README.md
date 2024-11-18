@@ -25,10 +25,44 @@ DragonLitz is a 2D-medieval fantasy game where players collect, train, and battl
 - Canva Pro: a user-friendly design tool, can be a valuable asset for game developers, particularly for creating 2D art and graphics.
 
 ## **Roadmap (if it is a proposal)**
-NFT
-Blockchain
-Cryptocurrency
-Future Content
+### **Phase 1: Development and Launch**
+#### **NFT Creation:**
+- Design and development of unique dragon NFTs with varying traits and rarities.
+- Integration of blockchain technology to ensure the authenticity and ownership of each NFT.
+#### **Game Development:**
+- Build a core gameplay loop, including breeding, training, and battling dragons.
+- Develop a user-friendly interface for both PC and mobile devices.
+- Implement in-game economy with a virtual currency.
+#### **Marketplace Development:**
+- Create a platform for players to buy, sell, and trade dragon NFTs.
+- Integrate cryptocurrency payment options for seamless transactions.
+#### **Beta Testing:**
+- Conduct closed beta testing to identify and fix bugs.
+- Gather feedback from players to refine gameplay and features.
+#### **Official Launch:**
+- Release the game to the public.
+- Implement marketing and community building strategies to attract players.
+### **Phase 2: Post-Launch Growth**
+#### **Community Building:**
+- Foster a strong and active community through social media, forums, and in-game events.
+- Organize contests, giveaways, and tournaments to engage players.
+#### **Gameplay Expansion:**
+- Introduce new game modes, such as PvE and PvP challenges.
+- Add new features, like breeding mechanics, customization options, and land ownership.
+#### **Token Integration:**
+- Develop a native cryptocurrency for the game.
+- Use the token for in-game purchases, staking, and governance.
+#### **Partnerships:**
+- Collaborate with other gaming projects and NFT platforms to cross-promote and expand the player base.
+- Partner with merchandise companies to create physical dragon-themed products.
+### **Phase 3: Future Improvements**
+#### **Augmented Reality (AR) Experiences:**
+- Develop AR features to bring dragons into the real world.
+- Create AR experiences for players to interact with their dragons in their physical environment.
+#### **Blockchain Technology Advancements:**
+- Stay updated on the latest blockchain advancements and explore new technologies, such as Layer-2 solutions and decentralized finance (DeFi).
+- Leverage blockchain to ensure transparency, security, and fairness in all game transactions.
+
 
 ## **Link to the public github repository**
 https://github.com/kaowastaken/YGG2K24
