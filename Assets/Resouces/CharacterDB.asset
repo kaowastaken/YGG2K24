@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c4fd02edf9373458b5a0e8fcd69e3c, type: 3}
+  m_Name: CharacterDB
+  m_EditorClassIdentifier: 
+  characters:
+  - characterName: Robin
+    characterSprite: {fileID: -1121957070, guid: a82622f2c5c0b8841bd9738b5b195e87,
+      type: 3}
+    animatorController: {fileID: 9100000, guid: 4f338f76c1912234e827651757ae10b1,
+      type: 2}
+  - characterName: Robin
+    characterSprite: {fileID: -187745497, guid: f50676ddf35e41640b3b61025d7e345c,
+      type: 3}
+    animatorController: {fileID: 9100000, guid: bd33124c69be2f94da3b431bee6b1a30,
+      type: 2}
