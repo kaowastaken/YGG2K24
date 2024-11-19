@@ -14,13 +14,13 @@ DragonLitz is a 2D-medieval fantasy game where players collect, train, and battl
 - Mythical Market: This is where players can buy, sell, and trade their dragons, equipment, and relics to other players which would use a blockchain (we haven’t decided which blockchain to use yet)
 
 ## **Technical stack**
-**Core Development Environment:**
+#### **Core Development Environment:**
 - Unity: A powerful game engine that handles rendering, physics, audio, animation, and more.
  C#: The primary scripting language for Unity, used to create game logic, AI, and user interfaces.
-**Additional Tools and Technologies:**
+#### **Additional Tools and Technologies:**
 - Visual Studio: A popular IDE for C# development, providing features like debugging, code completion, and version control integration.
 - Git: A version control system for tracking changes in code, enabling collaboration and efficient project management.
-**Art and Design Tools:**
+#### **Art and Design Tools:**
 - Asset Store: Unity's Asset Store provides a vast library of pre-built assets, including models, scripts, and sound effects.
 - Canva Pro: a user-friendly design tool, can be a valuable asset for game developers, particularly for creating 2D art and graphics.
 
